@@ -1,6 +1,6 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`function printHelloWorld(parameter) {\n\treturn parameter;\n}\n \n \n console.log(printHelloWorld("Hello,\n JavaScript enables interactive web pages!\n Click okay to get rid of me!));`);
+$("#editor").text(`function printHelloWorld(parameter) {\n\treturn parameter;\n}\n \n \n console.log(printHelloWorld(Hello,\n JavaScript enables interactive web pages\n Click okay to get rid of me));`);
 
 // initialize the editor environment using the ace library
 var editor = ace.edit("editor");
