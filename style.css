@@ -6,6 +6,7 @@
 
         #editor {
             height: 100%;
+            font-size: 18px;
         }
         body > div:first-child {
             height: 55%;
