@@ -1,5 +1,5 @@
 
-    body,
+        body,
         html {
             height: 100%;
         }
@@ -37,6 +37,7 @@
         nav > span {
             display: block;
         }
+
 
 .btn-danger {
     color: #fff;
