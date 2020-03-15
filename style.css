@@ -8,12 +8,12 @@
             height: 100%;
         }
         body > div:first-child {
-            height: 70%;
+            height: 55%;
             display: flex;
             flex-direction: column;
         }
         body > div:nth-child(2) {
-            height: 30%;
+            height: 45%;
             display: flex;
             flex-direction: column;
         }
@@ -35,14 +35,6 @@
         }
         nav > span {
             display: block;
-        }
-
-        .btn-danger{
-            margin: 5px;
-        }
-
-        .btn-danger{
-            margin: 5px;
         }
 
 .btn-danger {
